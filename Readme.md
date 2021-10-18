@@ -1,4 +1,4 @@
-imulation Manual
+# Simulation Readme
 
 The python code of interest is VirtualDeviceSimulator.py
 
@@ -16,6 +16,7 @@ All other libraries are pre-built in python
 ### Locate Directories
 
 We need to locate a couple folders and hardcode them into the file. The reason is when we perform multi-threading the directory is relative so we need absolute paths which you will need to adjust in the following lines.
+
 ```python
 SdkToolsBin = "cd C:/Users/Michael/AppData/Local/Android/Sdk/tools/bin/"
 pyFileDirectory = "C:/Users/Michael/Documents/FreeFood/"
@@ -23,6 +24,7 @@ avdConfigDirectory = "C:/Users/Michael/.android/avd/"
 platformToolsDirectory = "cd C:/Users/Michael/AppData/Local/Android/Sdk/platform-tools"
 emulatorDirectory = "cd C:/Users/Michael/AppData/Local/Android/Sdk/emulator"
 ```
+
 Change these directory paths to the ones located on your pc. You have all of these folders.
 
 ## What's Next
