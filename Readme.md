@@ -27,8 +27,4 @@ emulatorDirectory = "cd C:/Users/Michael/AppData/Local/Android/Sdk/emulator"
 
 Change these directory paths to the ones located on your pc. You have all of these folders.
 
-## What's Next
-
-Let me know if you have any further questions or if I should explain anything further.
-
 
